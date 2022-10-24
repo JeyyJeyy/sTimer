@@ -35,9 +35,6 @@ function redemarrer() {
     inp.question('Commande >> ', name => {
         let args = name.toLowerCase().split(' ');
         switch (args[0]) {
-            case 'start':
-                start();
-                break;
             case 'time':
                 timee();
                 break;
@@ -60,7 +57,7 @@ function timee() {
 }
 
 function help() {
-    //////
+    console.log('Commandes disponibles:\n-`help`: Affiche toute les commandes\n-`pause`: Pause/Dépause le minuteur\n-`end`: Arrête le minuteur\n')
     redemarrer();
 }
 
