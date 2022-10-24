@@ -1,0 +1,19 @@
+{
+  "name": "simple-worktimer",
+  "version": "1.0.0",
+  "description": "A simple timer for the work",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JeyyJeyy",
+  "license": "ISC",
+  "dependencies": {
+    "cli-color": "^2.0.3",
+    "figlet": "^1.5.2",
+    "gradient-string": "^2.0.2",
+    "readline": "^1.3.0",
+    "timer-machine": "^1.1.0"
+  }
+}
