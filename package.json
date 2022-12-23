@@ -1,5 +1,5 @@
 {
-  "name": "simple-worktimer",
+  "name": "sTimer",
   "version": "2.2.0",
   "description": "A simple timer for the work",
   "main": "index.js",
