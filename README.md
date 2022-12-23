@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a><img src="[https://ddragon.leagueoflegends.com/cdn/img/champion/centered/Velkoz_11.jpg](https://media.istockphoto.com/id/1253872538/video/digital-countdown-clock-timer-in-one-minute-or-60-seconds-to-zero-second-white-text-number-on.jpg" alt="sTimer - Minuteur"></a>
+  <a><img src="https://media.istockphoto.com/id/1253872538/video/digital-countdown-clock-timer-in-one-minute-or-60-seconds-to-zero-second-white-text-number-on.jpg?b=1&s=640x640&k=20&c=_rTS_X-CHH6T7IZcUcKm0LHf9GViiKdBfgA_kxwJ5sI=" alt="sTimer - Minuteur"></a>
   <br>
   LoL-Utils Un utilitaire LoL
   <br>
