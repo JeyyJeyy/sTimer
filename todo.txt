@@ -1,0 +1,3 @@
+améliorer visuel
+config file avec temps + mod
+--> statut Finished
